@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="515px" height="62px" viewBox="0 0 515 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M31,0 C48.1208272,0 62,13.8330625 62,30.89701 L62,31.10299 C62,48.1669375 48.1208272,62 31,62 C13.8791728,62 0,48.1669375 0,31.10299 L0,30.89701 C0,13.8330625 13.8791728,0 31,0 Z" id="path-1"></path>
+        <filter x="-9.7%" y="-8.1%" width="122.6%" height="122.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.680230138   0 0 0 0 0.650060958   0 0 0 0 0.706738946  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-27">
+            <text id="爱测试-—-您身边的用户研究专家" font-family="PingFangSC-Medium, PingFang SC" font-size="30" font-weight="400" fill="#0F0D4E">
+                <tspan x="75" y="42">爱测试 — 您身边的用户研究专家</tspan>
+            </text>
+            <g id="Group-20">
+                <g id="Rectangle-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-16" transform="translate(18.000000, 15.000000)" fill="#0F0D4E">
+                    <g id="Group-47-Copy" transform="translate(8.000000, 7.000000)">
+                        <ellipse id="Oval" cx="5.32722513" cy="3.18763326" rx="3.19633508" ry="3.18763326"></ellipse>
+                        <path d="M0,8.62342373 L3.46273449,7.86282871 L5.38398018,10.8122623 L7.24223698,7.86282871 L10.7254799,8.62342373 L10.7254799,10.527261 C9.32900941,12.0566666 7.54850949,12.8213693 5.38398018,12.8213693 C3.21945087,12.8213693 1.42479081,12.0566666 0,10.527261 L0,8.62342373 Z" id="Path-11"></path>
+                    </g>
+                    <path d="M9.34530044,25.447647 L5.42836203,32 L2.36780105,30.2934056 L6.14551916,23.9739437 C2.44605105,21.6484291 0,17.6192906 0,13.0383816 C0,5.83748228 6.04415588,0 13.5,0 C20.9558441,0 27,5.83748228 27,13.0383816 C27,15.6073286 26.2307412,18.0027493 24.9025615,20.0214978 L26.3246937,20.8394863 L22.8575243,22.4363829 C22.8553965,22.4383595 22.8532683,22.4403352 22.8511395,22.4423103 L22.8489618,22.4403266 L20.1635752,23.6771524 L20.0509663,17.2309353 L21.8641311,18.2738396 C22.8774121,16.7669377 23.4659686,14.9690418 23.4659686,13.0383816 C23.4659686,7.72253445 19.0040525,3.4131889 13.5,3.4131889 C7.99594753,3.4131889 3.53403141,7.72253445 3.53403141,13.0383816 C3.53403141,18.3542287 7.99594753,22.6635743 13.5,22.6635743 C13.534603,22.6635743 13.5691648,22.663404 13.6036846,22.6630641 L14.9585937,26.0015458 C14.479455,26.0512601 13.9928113,26.0767632 13.5,26.0767632 C12.0503871,26.0767632 10.6541382,25.8560969 9.34530044,25.447647 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
