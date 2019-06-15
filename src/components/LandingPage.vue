@@ -98,7 +98,7 @@
 
     img.hero {
         display: block;
-        width: 60%;
+        width: 100%;
         margin: 2em auto;
     }
     img.sm-hero {
