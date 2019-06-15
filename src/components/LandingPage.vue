@@ -34,11 +34,20 @@
             <img class="hero" src="../assets/zai-xian-pi-pei-01.png"/>
             <div class="feature-desc">
                 <div style="margin: 1em 0" class="bold">在线访谈工具</div>
-                <div>在线访谈工具能够让您和测试者匹配最合适的时间</div>
+                <div>在线访谈工具能够让您</div>
+                <div>和测试者匹配最合适的时间</div>
                 <div>进行线上交流，打破空间限制。</div>
                 <mt-button class="red-btn" type="primary">了解更多 </mt-button>
             </div>
             <img class="hero" src="../assets/zai-xian-pi-pei-02.png"/>
+            <div class="feature-desc">
+                <div style="margin: 1em 0" class="bold">智能测试工具</div>
+                <div>智能测试工具让您随时发布测试任务，</div>
+                <div>随时查看测试者的录屏反馈，</div>
+                <div>最大程度节约您的时间和精力。</div>
+                <mt-button class="red-btn" type="primary">了解更多 </mt-button>
+            </div>
+            <img class="hero" src="../assets/zhineng_ceshi_tool.png"/>
         </div>
         <div class="testee">
             <div class="flex-container">
@@ -50,7 +59,23 @@
                     </div>
                 </div>
             </div>
+            <div class="feature-desc">
+                <div style="margin: 1em 0" class="bold">获取佣金</div>
+                <div>您的贡献可以直接转化为现金奖励，</div>
+                <div>每半个小时的测试您将获得至少50元酬劳。</div>
+                <mt-button class="red-btn" type="primary">了解更多 </mt-button>
+            </div>
+            <img class="hero" src="../assets/huoqu-yongjin.png"/>
+            <div class="feature-desc">
+                <div style="margin: 1em 0" class="bold">分享获得奖金提成</div>
+                <div>分享爱测试app给您的朋友，</div>
+                <div>朋友赚取佣金的同时，</div>
+                <div>您也可以获取奖金提成。</div>
+                <mt-button class="red-btn" type="primary">了解更多 </mt-button>
+            </div>
+            <img class="hero" src="../assets/fenxiang_ticheng.png"/>
         </div>
+        <img class="hero" src="../assets/how-it-works.png"/>
     </div>
 </template>
 
