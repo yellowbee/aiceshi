@@ -75,7 +75,9 @@
             </div>
             <img class="hero" src="../assets/fenxiang_ticheng.png"/>
         </div>
-        <img class="hero" src="../assets/how-it-works.png"/>
+        <img class="hero" src="../assets/workflow.png"/>
+        <img class="hero" src="../assets/qr-code-qiye.png"/>
+        <img class="hero" src="../assets/qr-code-geren.png"/>
     </div>
 </template>
 
@@ -99,7 +101,7 @@
     img.hero {
         display: block;
         width: 100%;
-        margin: 2em auto;
+        margin: 0 auto;
     }
     img.sm-hero {
         width: 100%;
