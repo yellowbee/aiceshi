@@ -205,6 +205,7 @@
     .split{
     margin-top:-1em;
     margin-bottom:-1em;
+    width:100%;
     }
     
     .footer{
