@@ -76,8 +76,8 @@
             <img class="hero" src="../assets/fenxiang_ticheng.png"/>
         </div>
         <img class="hero" src="../assets/workflow.png"/>
-        <img class="hero" src="../assets/qr-code-qiye.png"/>
-        <img class="hero" src="../assets/qr-code-geren.png"/>
+        <img class="hero" style="padding-bottom: 30px;" src="../assets/qr-code-qiye.png"/>
+        <img class="hero" style="padding-top: 150px;" src="../assets/qr-code-geren.png"/>
     </div>
 </template>
 
