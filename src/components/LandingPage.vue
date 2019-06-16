@@ -4,7 +4,7 @@
         <div>
             <img class="hero" src="../assets/hero-1.png"/>
             <div>
-                <div class="desc bold">让产品所有者第一时间收获用户的反馈</div>
+                <div class="desc bold">让创业者第一时间收获用户的反馈</div>
                 <mt-button class="blue-btn" type="primary">我想收获反馈</mt-button>
             </div>
         </div>
