@@ -87,6 +87,7 @@
 </script>
 
 <style scoped>
+    
     .root {
         width: 100%;
     }
@@ -132,6 +133,7 @@
         background-color: #44cbbf;
         color: white;
         
+        
     }
     .yellow-btn {
         background-color: #fff100;
@@ -156,6 +158,7 @@
     .feature-desc {
         text-align: right;
         padding: 1em 1em;
+        margin-top:1em;
     }
 
     .bold {
