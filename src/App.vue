@@ -1,17 +1,14 @@
 <template>
   <div id="app">
-    <LandingPage/>
+    <keep-alive>
+      <router-view></router-view>
+    </keep-alive>
   </div>
 </template>
 
 <script>
-import LandingPage from './components/LandingPage'
-
 export default {
-  name: 'app',
-  components: {
-      LandingPage
-  }
+  name: 'app'
 }
 </script>
 

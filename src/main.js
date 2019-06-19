@@ -19,5 +19,6 @@ Vue.use(VueAnalytics, {
 Vue.use(MintUI);
 
 new Vue({
+    router,
   render: h => h(App),
 }).$mount('#app');
