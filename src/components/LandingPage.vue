@@ -87,7 +87,7 @@
 </script>
 
 <style scoped>
-    
+   
     .root {
         width: 100%;
     }
@@ -127,23 +127,49 @@
         padding: 1em 0;
         margin: 1em auto;
         border-radius:25px;
+        cursor:pointer;
     }
 
     .blue-btn {
         background-color: #44cbbf;
+        color: white; 
+    }
+    
+    .blue-btn:hover {
+        background-color: #3DB9AE;
         color: white;
-        
+        cursor:pointer;
         
     }
+    
+    
+    
     .yellow-btn {
         background-color: #fff100;
-        color: black;
+        color:##0E0B4B;
     }
+
+    .yellow-btn:hover {
+        background-color: #F3E702;
+        color: black;
+        cursor:pointer;
+    }
+   
+    
     .red-btn {
         background-color: red;
         color: white;
         margin-right:10px;
     }
+
+
+    .red-btn:hover {
+        background-color:#DC3323;
+        color: white;
+        margin-right:10px;
+        cursor:pointer;
+    }
+
 
     .flex-container {
         display: flex;
@@ -162,7 +188,7 @@
     }
 
     .bold {
-        font-weight: 500;
+        font-weight: 700;
         color:#0E0B4B;
     }
 
@@ -171,10 +197,15 @@
         margin: 0;
         padding: 2em 0;
     }
+
+    .body, .button, .bold, .h1, .h4, .h4, .footer {
+    font-family: arial;
+    
+    }
     
     .h1{
     color:#0E0B4B;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 24px;
     margin: 20px 10%;
     font-weight: 500;
@@ -197,22 +228,23 @@
     }
     
    .testee-hero{
-    margin-bottom: 2em;
+        margin-bottom: 2em;
    
     }
+
     .workflow{
-    margin-top:2em;
-    width: 100%
+        margin-top:2em;
+        width: 100%
     }
     
     .split{
-    margin-top:-1em;
-    margin-bottom:-1em;
-    width:100%;
+        margin-top:-1em;
+        margin-bottom:-1em;
+        width:100%;
     }
     
     .footer{
-    font-size: 12px;
+        font-size: 12px;
         line-height: 20px;
         width:100%;
         text-align:center;
